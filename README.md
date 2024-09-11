@@ -1,4 +1,13 @@
-## Olá! eu sou o Lucas Lima, estudante de programação...
+## Olá! eu sou o Lucas Lima...
+
+<div>
+👨‍💻 | Estudante de Análise e Desenvolvimento de Sistemas.  
+  
+📌 | 20 anos.    
+🙏 | Cristão.    
+💻 | Apaixonado por programação, design de interfaces e desenvolvimento web. 
+</div>
+
 Habilidades:
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
