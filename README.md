@@ -22,8 +22,6 @@ Habilidades:
   <img height="180em" src=https://github-readme-stats.vercel.app/api?username=lucaslima04&show_icons=true&theme=great-gatsby&rank_icon=github&hide_title=true>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslima04&layout=donut&theme=great-gatsby&hide_title=true">
-
-  <img height="180em" src="https://github.com/lucaslima04/lucaslima04/blob/main/github-user-contribution.svg">
 </div>
 
 ##
