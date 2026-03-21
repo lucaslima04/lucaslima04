@@ -3,7 +3,7 @@
 <div>
 👨‍💻 | Estudante de Análise e Desenvolvimento de Sistemas.  
   
-📌 | 20 anos.    
+📌 | 22 anos.    
 🙏 | Cristão.    
 💻 | Apaixonado por programação, design de interfaces e desenvolvimento web. 
 </div>
